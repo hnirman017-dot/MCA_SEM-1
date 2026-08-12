@@ -6,7 +6,7 @@
 (4) Delete
 (5)Linear Search
 (6) Exit
-*/
+*///work done
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -158,7 +158,7 @@ while(true){
         }
         break;
 
-    case 6:
+    case 6://
         cout<<"Exiting.....";
         return 0;
         
